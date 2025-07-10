@@ -69,8 +69,9 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        heading: ["Montserrat", "sans-serif"],
-        body: ["Open Sans", "sans-serif"],
+        heading: ["Pacifico", "cursive"],
+        body: ["Dancing Script", "cursive"],
+        script: ["Caveat", "cursive"],
       },
       keyframes: {
         "accordion-down": {
